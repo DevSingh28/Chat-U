@@ -19,9 +19,9 @@ Chat U is a real-time chat application built with a MERN stack (MongoDB, Express
 ## Installation
 
 1. **Set up .env file**:
-   PORT=....
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
+   - PORT=....
+   - MONGO_URI=your_mongodb_uri
+   - JWT_SECRET=your_jwt_secret
 
 2. **npm run build**
 3. **npm start**
